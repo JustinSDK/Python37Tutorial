@@ -24,7 +24,7 @@ class Rational:
     def __truediv__(self, that):
         return Rational(
             self.numer * that.denom,
-            self.denom * that.denom
+            self.denom * that.numer
         )
 
     def __str__(self):
