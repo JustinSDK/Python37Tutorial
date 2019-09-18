@@ -1,6 +1,6 @@
 # Python37Tutorial
 
-Python 3.7 技術手冊資料，預計 2018 年底上市。
+Python 3.7 技術手冊資料。
 
 - samples（書中範例）
 - labs（建議動手的實作）
